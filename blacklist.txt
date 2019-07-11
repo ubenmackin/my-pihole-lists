@@ -1,4 +1,8 @@
-www.example.net
-www.example.com
-www.example.org
-cdn.samsungcloudsolution.com
+
+lgad.cjpowercast.com.edgesuite.net
+us.ad.lgsmartad.com
+us.info.lgsmartad.com
+us.ibs.lgappstv.com
+ad.lgappstv.com
+smartshare.lgtvsdp.com
+ibis.lgappstv.com
