@@ -584,3 +584,5 @@ www.ws.sandbox.coinbase.com
 amzn.to
 multcloud.com
 www.multcloud.com
+educatoral.com
+www.educatoral.com
