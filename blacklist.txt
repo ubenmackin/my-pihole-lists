@@ -6,3 +6,7 @@ us.ibs.lgappstv.com
 ad.lgappstv.com
 smartshare.lgtvsdp.com
 ibis.lgappstv.com
+gstatic.cn
+www.gstatic.cn
+google.cn
+www.google.cn
