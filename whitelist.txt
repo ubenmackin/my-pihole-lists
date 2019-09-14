@@ -586,3 +586,4 @@ multcloud.com
 www.multcloud.com
 educatoral.com
 www.educatoral.com
+tags.tiqcdn.com
