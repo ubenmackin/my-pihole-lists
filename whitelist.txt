@@ -4,7 +4,6 @@
 2.android.pool.ntp.org
 7eer.net
 ad.antpool.com
-ad.doubleclick.net
 affiliatefuture.com
 akamaihd.net
 akamaitechnologies.com
