@@ -596,3 +596,4 @@ cloudaccess.svc.ubnt.com
 cloudaccess.svc.ui.com
 ubic-stabilizer.svc.ui.com
 community.svc.ui.com
+form.jotform.com
