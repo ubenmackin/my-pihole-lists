@@ -597,3 +597,4 @@ cloudaccess.svc.ui.com
 ubic-stabilizer.svc.ui.com
 community.svc.ui.com
 form.jotform.com
+politifact.com
