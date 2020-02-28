@@ -21,3 +21,9 @@ uniti-report.ui.com
 trace.stg.svc.ui.com
 rtb-usw.mfadsrvr.com
 fuq.com
+www.ecosia.org
+images.search.yahoo.com
+video.search.yahoo.com
+search.aol.com
+gibiru.com
+www.startpage.com
