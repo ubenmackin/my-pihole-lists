@@ -598,3 +598,4 @@ ubic-stabilizer.svc.ui.com
 community.svc.ui.com
 form.jotform.com
 politifact.com
+www.squidguard.org
