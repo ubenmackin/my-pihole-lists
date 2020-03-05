@@ -599,3 +599,4 @@ community.svc.ui.com
 form.jotform.com
 politifact.com
 www.squidguard.org
+sacramento.cbslocal.com
